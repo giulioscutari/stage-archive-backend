@@ -44,6 +44,5 @@ class Message(models.Model):
         "timestamp edited", blank=True, default=None
     )
     content = models.TextField("content")
-    channel = models.ForeignKey('Channel',on_delete=models.PROTECT)
-    author = models.ForeignKey("Author",on_delete=models.PROTECT)
-
+    channel = models.ForeignKey("Channel", on_delete=models.PROTECT)
+    author = models.ForeignKey("Author", on_delete=models.PROTECT)

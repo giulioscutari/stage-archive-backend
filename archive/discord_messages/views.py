@@ -9,9 +9,11 @@ from discord_messages.serializers import (
     ChannelSerializer,
 )
 
+
 class PaginationSettings(PageNumberPagination):
     page_size = 200
     max_page_size = 200
+
 
 class ChannelViewSet(ReadOnlyModelViewSet):
 
@@ -25,7 +27,7 @@ class MessageViewSet(ReadOnlyModelViewSet):
     pagination_class = PaginationSettings
 
     def get_queryset(self):
-        channel = self.request.query_params.get('channel')
+        channel = self.request.query_params.get("channel")
         return Message.objects.filter(channel__pk=channel).order_by("timestamp_sent")
 
 
