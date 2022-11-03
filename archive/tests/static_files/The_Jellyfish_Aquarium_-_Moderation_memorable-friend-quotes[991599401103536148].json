@@ -1,0 +1,561 @@
+{
+  "guild": {
+    "id": "963385109568946236",
+    "name": "The Jellyfish Aquarium",
+    "iconUrl": "https://cdn.discordapp.com/icons/963385109568946236/b589570fac883133fe53b8b8e853ff0d.png"
+  },
+  "channel": {
+    "id": "991599401103536148",
+    "type": "GuildTextChat",
+    "categoryId": "963419294484537365",
+    "category": "Moderation \uD83C\uDFD7\uD83D\uDCD1",
+    "name": "memorable-friend-quotes",
+    "topic": "Perfect for sharing quotes by people you know. For quotes from others please use the relevant topic channel instead"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "991600040390959175",
+      "type": "Default",
+      "timestamp": "2022-06-29T07:04:32.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "760007440421879840",
+        "name": "Saturn",
+        "discriminator": "7198",
+        "nickname": "edgiest sword lesbian",
+        "color": "#F5EEEE",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/760007440421879840/02e4722a6e5ed5e0744deef18669ba79.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "991600040130924614",
+          "url": "https://cdn.discordapp.com/attachments/991599401103536148/991600040130924614/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 20547
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1000419567568441465",
+      "type": "Default",
+      "timestamp": "2022-07-23T15:10:11.805+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "110036515903545344",
+        "name": "Jelly the Entity",
+        "discriminator": "1295",
+        "nickname": "Jelly",
+        "color": "#970045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/110036515903545344/a_10d81319af5d2e5980f0a2c547cf1783.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1000419567077691392",
+          "url": "https://cdn.discordapp.com/attachments/991599401103536148/1000419567077691392/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 24703
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1002267373920850021",
+      "type": "Default",
+      "timestamp": "2022-07-28T17:32:43.17+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "110036515903545344",
+        "name": "Jelly the Entity",
+        "discriminator": "1295",
+        "nickname": "Jelly",
+        "color": "#970045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/110036515903545344/a_10d81319af5d2e5980f0a2c547cf1783.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1002267373610479626",
+          "url": "https://cdn.discordapp.com/attachments/991599401103536148/1002267373610479626/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 73372
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1002550479072542833",
+      "type": "Default",
+      "timestamp": "2022-07-29T12:17:40.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "110036515903545344",
+        "name": "Jelly the Entity",
+        "discriminator": "1295",
+        "nickname": "Jelly",
+        "color": "#970045",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/110036515903545344/a_10d81319af5d2e5980f0a2c547cf1783.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1002550479160610986",
+          "url": "https://cdn.discordapp.com/attachments/991599401103536148/1002550479160610986/unknown.jpeg",
+          "fileName": "unknown.jpeg",
+          "fileSizeBytes": 215306
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD37",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f937.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1003168985145167887",
+      "type": "Default",
+      "timestamp": "2022-07-31T05:15:24.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cloudie — Today at 15:12\nI love soap, it's like, chemical warfare.\n*You will get no additional context, but it slew Dragoon so here it is.*",
+      "author": {
+        "id": "161808757330804736",
+        "name": "Cloud",
+        "discriminator": "6365",
+        "nickname": "Cloud",
+        "color": "#662ED4",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/161808757330804736/e466c14457ceb79e57ab00d45b425937.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1010293112066814012",
+      "type": "Default",
+      "timestamp": "2022-08-19T21:04:08.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Don't fatshame the snake.\" -Jelly",
+      "author": {
+        "id": "609835271906918401",
+        "name": "Skarbert",
+        "discriminator": "5223",
+        "nickname": "Skarbert",
+        "color": "#A84300",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609835271906918401/2b0d2c970d3d0fc2300357537a98266d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1011389690554888202",
+      "type": "Default",
+      "timestamp": "2022-08-22T21:41:32.94+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"It's like I'm being attacked by vowels!\" - Lucy, describing the Finnish language",
+      "author": {
+        "id": "609835271906918401",
+        "name": "Skarbert",
+        "discriminator": "5223",
+        "nickname": "Skarbert",
+        "color": "#A84300",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609835271906918401/2b0d2c970d3d0fc2300357537a98266d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1015517906567696455",
+      "type": "Default",
+      "timestamp": "2022-09-03T07:05:36.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“Okay, so technically if I die you still get to keep the greencard for being married to me. All we have to do is fake my death” - Scotch, getting way too invested in helping me get a green card",
+      "author": {
+        "id": "282657790806458368",
+        "name": "Koulga ♥",
+        "discriminator": "5808",
+        "nickname": "Koulga ♥",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282657790806458368/dae6e43f097b8add6475f878484aaa54.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE06",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f606.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1015662236934602813",
+      "type": "Default",
+      "timestamp": "2022-09-03T16:39:07.377+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Me: \"Sometimes I need to call him like a dog to get him to listen.\"\nPascal: \"How did you know that's what I'm into?\"\n-Me and Pascal with our friend D.",
+      "author": {
+        "id": "609835271906918401",
+        "name": "Skarbert",
+        "discriminator": "5223",
+        "nickname": "Skarbert",
+        "color": "#A84300",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609835271906918401/2b0d2c970d3d0fc2300357537a98266d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f923.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1022498339893293136",
+      "type": "Default",
+      "timestamp": "2022-09-22T13:23:21.331+00:00",
+      "timestampEdited": "2022-09-22T13:25:20.729+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"The sage on the other hand is a ||*whore*|| and must be pruned\" - Me to a friend.",
+      "author": {
+        "id": "411653156767006720",
+        "name": "Goff Moff",
+        "discriminator": "1462",
+        "nickname": "Valkyrian Council",
+        "color": "#24032A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/411653156767006720/ab3dee504f756423507ee3bf7d3f00ce.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024524439871823893",
+      "type": "Default",
+      "timestamp": "2022-09-28T03:34:21.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "282657790806458368",
+        "name": "Koulga ♥",
+        "discriminator": "5808",
+        "nickname": "Koulga ♥",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282657790806458368/dae6e43f097b8add6475f878484aaa54.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1024524439683092490",
+          "url": "https://cdn.discordapp.com/attachments/991599401103536148/1024524439683092490/IMG_4388.png",
+          "fileName": "IMG_4388.png",
+          "fileSizeBytes": 159966
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024524475208839178",
+      "type": "Default",
+      "timestamp": "2022-09-28T03:34:29.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Requiem asking the real questions",
+      "author": {
+        "id": "282657790806458368",
+        "name": "Koulga ♥",
+        "discriminator": "5808",
+        "nickname": "Koulga ♥",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282657790806458368/dae6e43f097b8add6475f878484aaa54.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1024524502060781670",
+      "type": "Default",
+      "timestamp": "2022-09-28T03:34:36.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bimny giving the real answers",
+      "author": {
+        "id": "282657790806458368",
+        "name": "Koulga ♥",
+        "discriminator": "5808",
+        "nickname": "Koulga ♥",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282657790806458368/dae6e43f097b8add6475f878484aaa54.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1029911447641268234",
+      "type": "Default",
+      "timestamp": "2022-10-13T00:20:23.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "“I’m a witch, Duda is my cottagecore witch girlfriend, Roo is the spell we cast,” - Pearl",
+      "author": {
+        "id": "282657790806458368",
+        "name": "Koulga ♥",
+        "discriminator": "5808",
+        "nickname": "Koulga ♥",
+        "color": "#206694",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/282657790806458368/dae6e43f097b8add6475f878484aaa54.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1031302870940778547",
+      "type": "Default",
+      "timestamp": "2022-10-16T20:29:25.113+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Is Daphne a trap.. is that why Fred loves her?\" - @Demon Queen",
+      "author": {
+        "id": "609835271906918401",
+        "name": "Skarbert",
+        "discriminator": "5223",
+        "nickname": "Skarbert",
+        "color": "#A84300",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609835271906918401/2b0d2c970d3d0fc2300357537a98266d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "798137609113042944",
+          "name": "Demon Queen",
+          "discriminator": "4117",
+          "nickname": "Chavvy Douche",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1034623487916122142",
+      "type": "Default",
+      "timestamp": "2022-10-26T00:24:21.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Me to Koulga",
+      "author": {
+        "id": "411653156767006720",
+        "name": "Goff Moff",
+        "discriminator": "1462",
+        "nickname": "Valkyrian Council",
+        "color": "#24032A",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/411653156767006720/ab3dee504f756423507ee3bf7d3f00ce.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1034623487677042718",
+          "url": "https://cdn.discordapp.com/attachments/991599401103536148/1034623487677042718/20221025_202212.jpg",
+          "fileName": "20221025_202212.jpg",
+          "fileSizeBytes": 18666
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1037318110484639784",
+      "type": "Default",
+      "timestamp": "2022-11-02T10:51:49.978+00:00",
+      "timestampEdited": "2022-11-02T11:19:30.692+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I like torturing Classics students by making them do Maths.\"\n- Colin, my Egyptology lecturer",
+      "author": {
+        "id": "609835271906918401",
+        "name": "Skarbert",
+        "discriminator": "5223",
+        "nickname": "Skarbert",
+        "color": "#A84300",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609835271906918401/2b0d2c970d3d0fc2300357537a98266d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 17
+}

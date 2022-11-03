@@ -18,7 +18,8 @@ class GuildAdmin(admin.ModelAdmin):
 class CategoryAdmin(admin.ModelAdmin):
 
     list_display = (
-        "server_id",
+        "guild_id",
+        "discord_id",
         "name",
     )
     search_fields = ("name",)
@@ -48,7 +49,6 @@ class AuthorAdmin(admin.ModelAdmin):
 
 @admin.register(Message)
 class MessageAdmin(admin.ModelAdmin):
-    pass
-    # list_display = (
-    #     "channel", "timestamp_sent", "timestamp_edited", "author"
-    # )
+    list_display = (
+        "channel", "timestamp_sent", "timestamp_edited", "author"
+    )
