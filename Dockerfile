@@ -25,6 +25,7 @@ RUN apt-get update \
         openssh-client
 USER $APPUSER
 COPY --chown=$APPUSER ./requirements.txt requirements.txt
+RUN python3 -m pip install --upgrade pip
 RUN python3 -m pip install --user --no-cache-dir -r requirements.txt
 COPY --chown=$APPUSER . .
 USER $APPUSER
