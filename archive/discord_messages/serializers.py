@@ -1,5 +1,5 @@
 from rest_framework.serializers import ModelSerializer
-
+from discord_messages.models import Guild, Category, Channel, Author, Message
 
 class GuildSerializer(ModelSerializer):
     class Meta:
@@ -8,11 +8,13 @@ class GuildSerializer(ModelSerializer):
             "icon_url",
             "name",
         )
+        model = Guild
 
 
 class CategorySerializer(ModelSerializer):
     class Meta:
         fields = ("server_id", "name")
+        model = Category
 
 
 class ChannelSerializer(ModelSerializer):
@@ -24,6 +26,7 @@ class ChannelSerializer(ModelSerializer):
             "name",
             "topic",
         )
+        model = Channel
 
 
 class AuthorSerializer(ModelSerializer):
@@ -37,9 +40,11 @@ class AuthorSerializer(ModelSerializer):
             "color",
             "is_bot",
         )
+        model = Author
 
 
 class MessageSerializer(ModelSerializer):
     class Meta:
 
         fields = ("discord_id", "timestamp_sent", "timestamp_edited", "content")
+        model = Message

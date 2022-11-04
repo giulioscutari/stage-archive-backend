@@ -28,7 +28,7 @@ class MessageViewSet(ReadOnlyModelViewSet):
 
     def get_queryset(self):
         channel = self.request.query_params.get("channel")
-        return Message.objects.filter(channel__pk=channel).order_by("timestamp_sent")
+        return Message.objects.filter(channel__discord_id=channel).order_by("timestamp_sent")
 
 
 class AuthorViewSet(ReadOnlyModelViewSet):
